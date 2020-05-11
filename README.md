@@ -17,6 +17,7 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 * Convolutional Neural Networks
 * Support Vector Machines
 * Recurrent Neural Networks
+* Logistic Regression
 
 # Top three accuracies in the [leaderboard](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard)
 * 71.16%
@@ -26,7 +27,7 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 # Accuracies achieved by us:
 * CNN 55.84%
 * RNN 41.84%
-* Logistic Regression 38.46%
+* LR 38.46%
 * SVM 33.18%
 
 
