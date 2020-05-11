@@ -35,6 +35,7 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 * Recurrent Neural Networks
 * Decision tree
 * K-Nearest Neighbours
+* Logistic Regression
 
 # Top three accuracies in the Kaggle [leaderboard](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard)
 * 71.16%
@@ -51,5 +52,6 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 | Support Vector Machine                          | 33.18%   |
 | KNN                                             | 32.85%   |
 | Decision Tree                                   | 25.09%   |
+
 
 
