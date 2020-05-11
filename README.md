@@ -26,8 +26,7 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 # Accuracies achieved by us:
 * CNN 55.84%
 * RNN 41.84%
+* Logistic Regression 38.46%
 * SVM 33.18%
-
-
 
 
