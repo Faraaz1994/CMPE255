@@ -6,15 +6,15 @@ This is a [Kaggle challenge](https://www.kaggle.com/c/challenges-in-representati
 We have built multiple models using Convolutional Neural Networks, Support Vector Machines, Recurrent Neural Networks, Decision trees and K-Nearest Neighbours. The notebooks are present in the src folder.
 Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). 
 
-# Folder Structure
+# Steps to run
+
+#### Follow the folder Structure
     ├── src
     |    ├── notebook.ipynb
-    ├── Data
-    |    ├── fer2013.csv
-    └── README.md
-
-# Steps to run
-* Download the dataset from [link](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+    └── Data
+         ├── fer2013.csv
+    
+* Download the dataset from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 * Download the notebook of interest from [here](https://github.com/Faraaz1994/CMPE255/tree/master/src)
 * The commands to install the dependencies are provided in each notebook. Run the commands to install the necessary dependecies
 * Assign the path to the src folder to the variable 'directory' present in the notebooks
@@ -37,15 +37,18 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 * K-Nearest Neighbours
 * Logistic Regression
 
-# Top three accuracies in the Kaggle [leaderboard](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard)
+# Top five accuracies in the Kaggle [leaderboard](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard)
 * 71.16%
 * 69.26%
 * 68.82%
+* 67.48%
+* 65.25%
+
 
 # Accuracies achieved by us:
 | Algorithm                                       | Accuracy |
 |-------------------------------------------------|----------|
-| Convolution Neural Networks(Data augmentation)  | 64.35%   |
+| [Convolution Neural Networks(Data augmentation)](https://github.com/Faraaz1994/CMPE255/blob/master/src/CNN/CMPE255_Augmentation.ipynb)  | 64.35%   |
 | Convolution Neural Networks                     | 55.84%   |
 | Recurrent Neural Networks                       | 41.84%   |
 | Logistic Regression                             | 38.46%   |
