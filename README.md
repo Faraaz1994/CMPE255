@@ -50,7 +50,7 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 |-------------------------------------------------|----------|
 | [Convolution Neural Networks(Data augmentation)](https://github.com/Faraaz1994/CMPE255/blob/master/src/CNN/CMPE255_Augmentation.ipynb)  | 64.35%   |
 | Convolution Neural Networks                     | 55.84%   |
-| Recurrent Neural Networks                       | 41.84%   |
+| Recurrent Neural Networks                       | 38.35%   |
 | Logistic Regression                             | 38.46%   |
 | KNN                                             | 35.52%   |
 | Support Vector Machine                          | 33.18%   |
