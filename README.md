@@ -10,9 +10,9 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 
 #### Follow the folder Structure
     ├── src
-    |    ├── notebook.ipynb
+    |    └── notebook.ipynb
     └── Data
-         ├── fer2013.csv
+         └──  fer2013.csv
     
 * Download the dataset from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 * Download the notebook of interest from [here](https://github.com/Faraaz1994/CMPE255/tree/master/src)
@@ -52,8 +52,8 @@ Dataset can be found in [here](https://www.kaggle.com/c/challenges-in-representa
 | Convolution Neural Networks                     | 55.84%   |
 | Recurrent Neural Networks                       | 41.84%   |
 | Logistic Regression                             | 38.46%   |
+| KNN                                             | 35.52%   |
 | Support Vector Machine                          | 33.18%   |
-| KNN                                             | 32.85%   |
 | Decision Tree                                   | 25.09%   |
 
 
